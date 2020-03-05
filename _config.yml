@@ -1,10 +1,9 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
-paginate: 1
+title: Do not hire
+url: https://do-not-hire.me
+paginate: 100
 baseurl: ""
-permalink: pretty
+permalink: /:title
 
 # Gems
 plugins:
